@@ -1,2 +1,2 @@
-redo-ifchange icedbintext
+redo-ifchange src/icedbintext
 
