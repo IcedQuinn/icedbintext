@@ -9,7 +9,3 @@ The intention is:
  - You may use the module in any software (open or closed,)
  - Modifications to the module itself have to be released back in to the commons,
 
-Not in the license:
-
- - If you use the software to make products that are disasterous to humanity or its freedoms, expect to get hit with a stick.
-
