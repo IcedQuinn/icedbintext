@@ -1,11 +1,10 @@
 # Iced Quinn's Bintext
 A small module for converting between raw binary data and the weird squiggles humans prefer for some reason.
 
-## License
-This module is made available under the MPL-2, a well-known open source license.
+# License
 
-The intention is:
+- Mozilla Public License, version 2 (MPL-2.)
 
- - You may use the module in any software (open or closed,)
- - Modifications to the module itself have to be released back in to the commons,
+Short version: you may use the modules for non-commercial and commercial
+purposes but any changes in the code must be returned to the repository.
 
