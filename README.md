@@ -1,3 +1,6 @@
+# Origin
+This repository lives on https://code.iceworks.cc but is mirrored to Github for pragmatic reasons.
+
 # Iced Quinn's Bintext
 A small module for converting between raw binary data and the weird squiggles humans prefer for some reason.
 
